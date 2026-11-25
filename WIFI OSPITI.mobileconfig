@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>Ospiti102631.</string>
+			<key>PayloadDescription</key>
+			<string>Configura le impostazioni Wi-Fi</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.795E81A2-DCFB-426F-B76F-DB6B16E917CC</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>795E81A2-DCFB-426F-B76F-DB6B16E917CC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>CartaNetwork_Ospiti</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>WIFI OSPITI</string>
+	<key>PayloadIdentifier</key>
+	<string>AleAir2024-3.4784519D-A4C2-4CB6-AE89-D82D3C2C5339</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4ECD1C54-90DE-4D1A-9904-8A423B7BF271</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
